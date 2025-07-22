@@ -1,6 +1,6 @@
 ---
 templateKey: exhibitions-sub-page
-thumbnail: /img/clay-images-11.jpg
+thumbnail: /img/apaitustifin.jpg
 date: 2023-03-06T05:10:14.676Z
 title: Sold 2
 description: "Generate Lorem Ipsum placeholder text. Select the number of characters, words, sentences or paragraphs, and hit generate!"
