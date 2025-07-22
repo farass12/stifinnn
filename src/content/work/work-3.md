@@ -2,12 +2,43 @@
 templateKey: work-sub-page
 thumbnail: /img/clay-images-16.jpg
 date: 2022-02-04T10:06:48.715Z
-title: Work 3
-description: "Generate Lorem Ipsum placeholder text. Select the number of characters, words, sentences or paragraphs, and hit generate!"
+title: Manfaat Tes STIFIn
+description: 
 ---
-![clay-images-17](/img/clay-images-17.jpg)
+<!-- ![clay-images-17](/img/clay-images-17.jpg)
 
-![clay-images-15](/img/clay-images-15.jpg)
+![clay-images-15](/img/clay-images-15.jpg) -->
 
+### Manfaat Tes STIFIn untuk diri sendiri
+> Mengenali potensi dari karakter dan kepribadian diri
+  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Venenatis urna cursus eget nunc scelerisque. Nullam non nisi est sit amet facilisis. Quisque id diam vel quam. Morbi tincidunt augue interdum velit. Pellentesque adipiscing commodo elit at imperdiet dui accumsan. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna neque. Commodo odio aenean sed adipiscing diam donec adipiscing tristique risus. Mi tempus imperdiet nulla malesuada pellentesque. Maecenas ultricies mi eget mauris pharetra et ultrices. Cursus risus at ultrices mi tempus imperdiet nulla. Sit amet nisl suscipit adipiscing bibendum est ultricies. At volutpat diam ut venenatis tellus in. Cursus eget nunc scelerisque viverra mauris in. Ut aliquam purus sit amet luctus venenatis lectus.
+> Meningkatkan motivasi belajar dan semangat bertumbuh
+
+> Mengoptimalkan potensi bakat yang akan di tingkatkan
+
+> Meningkatkan rasa percaya diri akan kemampuan yang dimiliki
+
+> Membantu lebih fokus pada kelebihan dan kehebatan diri
+
+> Menentukan jurusan sekolah / kuliah sesuai potensi yang di miliki
+
+> Membangun komunikasi yang tepat di lingkungan diri
+
+> Menentukan pasangan yang idel dan menjadikan keluarga yang bahagia
+
+> Membangun pola harmonis sirkulasi antar anggota keluarga / organisasi
+
+> Menentukan karir dan profesi sesuai dengan potensi yang di miliki
+
+> Menentukan bisnis dan rekan bisnis yang tepat sesuai potensi
+
+> Meningkatkan pola komunikasi terhadap lingkungan
+
+> Bertindak lebih bijaksana respon orang lain terhadap kita
+
+> Bisa kolaborasi dan saling melengkapi potensi yang di miliki
+
+> Bisa menentukan pengambilan keputusan yang tepat dan prioritas
+
+> Mampu mengaplikasikan potensi di berbagai bidang karir
