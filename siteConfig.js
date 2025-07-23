@@ -1,6 +1,6 @@
 const siteConfig = {
-  name: '',
-  shortName: '',
+  name: 'areta',
+  shortName: 'AIC',
   description: 'Clay - Personal Gatsby Theme',
   url: '/', // Domain of your site without prefix!
   prefix: '/',
