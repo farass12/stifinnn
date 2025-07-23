@@ -1,21 +1,21 @@
 ---
 templateKey: bio-page
-thumbnail: /img/apaitustifin.jpg
+thumbnail: /img/APAITUSTIFIN.png
 date: 2023-03-02T10:17:05.133Z
 title: Tes STIFIn untuk Mengetahui Personaliti Genetik Anda
 description: 
 number: 1
 pagetype:
   - main
-featuredimage: /img/apaitustifin.jpg
+featuredimage: /img/apaitustifinn.jpg
 ---
 <!--![clay-images-11](/img/clay-images-11.jpg)-->
 
-**Apa itu STIFIn** – STIFIn merupakan sebuah konsep yang digunakan untuk mengidentifikasi *mesin kecerdasan* manusia berdasarkan sistem operasi otak yang dominan dan dapat diketahui dengan memindai sidik jari. Metode STIFIn tersusun dari teori-teori psikologi, *neuroscience*, dan ilmu sumber daya manusia yang akan membantu kita mengenali dan memahami karakter dan kepribadian setiap manusia. Sesuai dengan namanya, dalam konsep STIFIn yang diperkenalkan oleh Farid Poniman, terdapat 5 mesin kecerdasan, yaitu *Sensing, Thinking, Intuiting, Feeling, dan Insting.*
+**Apa itu STIFIn** – STIFIn merupakan sebuah konsep yang digunakan untuk mengidentifikasi mesin kecerdasan manusia berdasarkan sistem operasi otak yang dominan dan dapat diketahui dengan memindai sidik jari. Metode STIFIn tersusun dari teori-teori psikologi, *neuroscience*, dan ilmu sumber daya manusia yang akan membantu kita mengenali dan memahami karakter dan kepribadian setiap manusia. Sesuai dengan namanya, dalam konsep STIFIn yang diperkenalkan oleh Farid Poniman, terdapat 5 mesin kecerdasan, yaitu *Sensing, Thinking, Intuiting, Feeling, dan Insting.*
 
 **Apa itu Personaliti Genetik STIFIn?**
 
-Setiap orang memiliki kepribadian dan motivasi kemudi yang berbeda-beda satu dengan yang lainnya. Dimana dalam konsep STIFIn Masing-masing dari setiap karakter tersebut dibagi menjadi dua kemudi kecerdasan, yaitu introvert dan ekstrovert, kecuali Insting. Mesin kecerdasan (S, T, I, F, In) yang dikombinasikan dengan kemudi kecerdasan (introvert dan ekstrovert) disebut sebagai personaliti genetik yang terdiri dari Si, Se, Ti, Te, Ii, Ie, Fi, Fe, dan In.
+Setiap orang memiliki kepribadian dan motivasi kemudi yang berbeda-beda satu dengan yang lainnya. Dimana dalam konsep STIFIn Masing-masing dari setiap karakter tersebut dibagi menjadi dua kemudi kecerdasan, yaitu *introvert* dan *ekstrovert*, kecuali *Insting*. Mesin kecerdasan (S, T, I, F, In) yang dikombinasikan dengan kemudi kecerdasan (*introvert* dan *ekstrovert*) disebut sebagai personaliti genetik yang terdiri dari Si, Se, Ti, Te, Ii, Ie, Fi, Fe, dan In.
 
 Dari personaliti genetik sesorang akan diketahui potensi bakat minat yang dimiliki secara genetik. Dari itu kita bisa mengetahui kepribadian dan pola komunikasi yang tepat bahkan sampai menuntukan profesi atau karir yang sesuai dan nyaman di masa depan.
 
@@ -57,26 +57,26 @@ Nah, setelah mengetahui letak masing-masing mesin kecerdasan, berikut merupakan 
 
 Sensing yang mengandalkan kecerdasan pancaindra, membuatnya menanggapi setiap hal dengan konkrit dan praktis. Memiliki kepribadian rajin dan mempunyai daya ingat serta fisik yang kuat, membuat orang Sensing aktif bergerak yang juga disebabkan oleh hormon kortisol yang tinggi. Bahkan kalau orang Sensing sedang merasa jenuh, cara mengembalikan semangatnya adalah dengan berolahraga atau menjalankan aktivitas fisik lainnya seperti berjalan-jalan.
 
-Karena identik dengan otot dan digabungkan dengan kecerdasan pancaindra, Sensing menyukai pekerjaan yang ulet, gesit, dan berkeringat sehingga ia akan lebih memilih pekerjaan lapangan. Kemistri Sensing adalah harta., Sensing introvert paling hemat karena ia perlu bekerja lebih keras untuk mendapatkannya. Sementara Sensing Extrovert boros dalam keuangan namun ia adalah orang yang dermawan dan tidak ragu mengeluarkan hartanya untuk sedekah atau mentraktir orang lain.
+Karena identik dengan otot dan digabungkan dengan kecerdasan pancaindra, Sensing menyukai pekerjaan yang ulet, gesit, dan berkeringat sehingga ia akan lebih memilih pekerjaan lapangan. Kemistri Sensing adalah harta., Sensing *introvert* paling hemat karena ia perlu bekerja lebih keras untuk mendapatkannya. Sementara Sensing *Extrovert* boros dalam keuangan namun ia adalah orang yang dermawan dan tidak ragu mengeluarkan hartanya untuk sedekah atau mentraktir orang lain.
 
-Thinking memiliki julukan sebagai the manager, merupakan tipe pekerja keras, tegas, dan disiplin menjadikan mereka mampu berpikir logis dan objektif. Kemampuannya dalam berpikir memakan energi yang besar sehingga meskipun ia mudah bergerak namun tenaganya lebih banyak diserap oleh pikirannya. Ia juga orang yang cukup kritis dalam banyak hal namun adil dalam setiap mengambil keputusan.
+*Thinking* memiliki julukan sebagai the manager, merupakan tipe pekerja keras, tegas, dan disiplin menjadikan mereka mampu berpikir logis dan objektif. Kemampuannya dalam berpikir memakan energi yang besar sehingga meskipun ia mudah bergerak namun tenaganya lebih banyak diserap oleh pikirannya. Ia juga orang yang cukup kritis dalam banyak hal namun adil dalam setiap mengambil keputusan.
 
-Tipe Thinking introvert yang senang berpikir membuatnya terbiasa belajar dengan metode menalar dan berhitung. Sedangkan pada Thinking ekstrovert kemampuan berpikirnya mengandalkan kecerdasan logika.
+Tipe *Thinking introvert yang senang berpikir* membuatnya terbiasa belajar dengan metode menalar dan berhitung. Sedangkan pada *Thinking ekstrovert* kemampuan berpikirnya mengandalkan kecerdasan logika.
 
-Intuiting dikenal sebagai the creator karena memiliki banyak ide kreatif dan daya imajinasi yang tinggi. Sifat yang cenderung perfeksionis dan sangat mementingkan kualitas. Intuiting tergolong tidak mudah diatur, ia menyukai perubahan yang terkonsep karena Intuiting merupakan pembaharu yang melihat peluang ke depan, namun tidak menyadari musuhnya.
+*Intuiting* dikenal sebagai the creator karena memiliki banyak ide kreatif dan daya imajinasi yang tinggi. Sifat yang cenderung perfeksionis dan sangat mementingkan kualitas. *Intuiting* tergolong tidak mudah diatur, ia menyukai perubahan yang terkonsep karena *Intuiting* merupakan pembaharu yang melihat peluang ke depan, namun tidak menyadari musuhnya.
 
-Tipe ini memiliki kemistri “kata” yang berupa ide atau gagasan yang perlu dirangkai untuk diwujudkan. Kebalikan dengan Sensing, mesin kecerdasan Intuiting kurang suka main otot, ia lebih suka menggunakan kepala bagian kanannya untuk menggali kreativitas.
+Tipe ini memiliki kemistri “kata” yang berupa ide atau gagasan yang perlu dirangkai untuk diwujudkan. Kebalikan dengan Sensing, mesin kecerdasan *Intuiting* kurang suka main otot, ia lebih suka menggunakan kepala bagian kanannya untuk menggali kreativitas.
 
-Feeling paling senang berbicara tapi juga merupakan pendengar yang baik. Tipe ini erat kaitannya dengan perasaan, sehingga mampu memahami orang lain, mudah tersentuh, dan memiliki rasa empati yang tinggi. Kekuatan emosional yang dimiliki Feeling membuatnya memiliki jiwa pemimpin.
+*Feeling* paling senang berbicara tapi juga merupakan pendengar yang baik. Tipe ini erat kaitannya dengan perasaan, sehingga mampu memahami orang lain, mudah tersentuh, dan memiliki rasa empati yang tinggi. Kekuatan emosional yang dimiliki *Feeling* membuatnya memiliki jiwa pemimpin.
 
-Mesin kecerdasan Feeling dengan kemudi kecerdasan introvert menjadikan ia memiliki sifat lebih percaya diri yang tinggi karena didorong dari dalam dirinya dan pada tipe Feeling ekstrovert ia lebih bergantung pada energi yang datang dari luar dirinya membuatnya suka menjadi tokoh atau pemimpin yang berada dibalik layar.
+Mesin kecerdasan *Feeling* dengan kemudi kecerdasan *introvert* menjadikan ia memiliki sifat lebih percaya diri yang tinggi karena didorong dari dalam dirinya dan pada tipe *Feeling ekstrovert* ia lebih bergantung pada energi yang datang dari luar dirinya membuatnya suka menjadi tokoh atau pemimpin yang berada dibalik layar.
 
-Insting yang mengandalkan kecerdasan naluri membuatnya responsif, mudah beradaptasi, dan memiliki kepedulian sosial yang tinggi. Orang dengan mesin kecerdasan Insting adalah orang yang serba bisa karena sistem operasi otaknya ada dibagian tengah yang menyangga empat belahan otak dengan sama baik.
+*Insting* yang mengandalkan kecerdasan naluri membuatnya responsif, mudah beradaptasi, dan memiliki kepedulian sosial yang tinggi. Orang dengan mesin kecerdasan *Insting* adalah orang yang serba bisa karena sistem operasi otaknya ada dibagian tengah yang menyangga empat belahan otak dengan sama baik.
 
-Kemampuan serba bisa yang dimiliki Insting membuatnya ingin selalu berperan dan memberikan kontribusi bagi lingkungannya. Tipe ini menyukai suasana yang tenang dan damai sehingga ia mampu melihat hikmah secara spiritual yang dapat dirasakan dengan nalurinya.
+Kemampuan serba bisa yang dimiliki *Insting* membuatnya ingin selalu berperan dan memberikan kontribusi bagi lingkungannya. Tipe ini menyukai suasana yang tenang dan damai sehingga ia mampu melihat hikmah secara spiritual yang dapat dirasakan dengan nalurinya.
 
 Dengan mengetahui pertanyaan dari apa itu STIFIn , kita akan mengetahui personaliti genetik seseorang yang memudahkan dalam mencari solusi dari setiap persoalan yang secara lebih spesifik, seperti cara belajar, memilih karir, merencanakan keuangan, memahami karakter pasangan, pola pengasuhan anak, dan lain sebagainya. Jadi, tes STIFIn memiliki banyak sekali manfaat yang dapat diaplikasikan untuk memaksimalkan potensi dalam diri seseorang.
 
-<a href="https://unsplash.com/@tomcrewceramics" target="_blank">- </a>
+<a href="https://unsplash.com/@tomcrewceramics" target="_blank"> </a>
 
 

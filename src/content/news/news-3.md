@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-thumbnail: /img/doyoung.jpg
+thumbnail: /img/UNGGUL.png
 date: 2022-02-04T10:06:48.715Z
 title: 3 Keunggulan Tes STIFIn
 description: 

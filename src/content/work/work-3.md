@@ -1,6 +1,6 @@
 ---
 templateKey: work-sub-page
-thumbnail: /img/clay-images-16.jpg
+thumbnail: /img/mnfat.png
 date: 2022-02-04T10:06:48.715Z
 title: Manfaat Tes STIFIn
 description: 

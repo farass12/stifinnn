@@ -31,103 +31,103 @@ const Layout = (props) => {
           <nav id="swup" className="site-head-left">
             <ul className="nav" role="menu">
               <li
-                className={`nav-home  ${data.pathname === "/" ? "nav-current" : ""} `}
-                role="menuitem"
+                // className={`nav-home  ${data.pathname === "/" ? "nav-current" : ""} `}
+                // role="menuitem"
               >
-                <Link to={`/`}></Link>
+                {/* <Link to={`/`}></Link> */}
               </li>
               <li
                 className={`nav-home  ${data.pathname.includes("/bio") ? "nav-current" : ""} `}
                 role="menuitem"
               >
-                <Link to={`/bio`}>Bio</Link>
+                <Link to={`/bio`}>Beranda</Link>
               </li>
               <li
                 className={`nav-home  ${data.pathname.includes("/work/work-3") ? "nav-current" : ""} `}
                 role="menuitem"
               >
-                <Link to={`/work/work-3`}>manfaat</Link>
+                <Link to={`/work/work-3`}>Manfaat</Link>
               </li>
               <li
                 className={`nav-home  ${data.pathname.includes("/news/news-3") ? "nav-current" : ""} `}
                 role="menuitem"
               >
-                <Link to={`/news/news-3`}>News</Link>
+                <Link to={`/news/news-3`}>Keunggulan</Link>
               </li>
               <li
                 className={`nav-home  ${data.pathname.includes("/contact") ? "nav-current" : ""} `}
                 role="menuitem"
               >
-                <Link to={`/contact`}>Contact</Link>
+                <Link to={`/contact`}>Kontak</Link>
               </li>
               <li
                 className={`nav-home  ${data.pathname.includes("/sold/sold-1") ? "nav-current" : ""} `}
                 role="menuitem"
               >
-                <Link to={`/sold/sold-1`}>layanan</Link>
+                <Link to={`/sold/sold-1`}>Layanan</Link>
               </li>
             </ul>
           </nav>
-          <div className="site-head-center">
-            <Link className="site-head-logo" to={`/`}>
+          {/* <div className="">
+            <Link className="" to={`/`}>
               {title}
             </Link>
-          </div>
+          </div> */}
           <div className="site-head-right">
             <div className="social-links">
               <Link
-                to={`https://facebook.com/${social.facebook}`}
+                to={`${social.facebook}`}
                 title="Facebook"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Facebook
+                
               </Link>
               <Link
-                to={`https://instagram.com/${social.twitter}`}
+                to={`${social.twitter}`}
                 title="Instagram"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Instagram
+                
               </Link>
 
               <Link
-                to={`https://github.com/lilxyzz/gatsby-clay`}
+                to={`https://api.whatsapp.com/send?phone=6285219507377&text=Hallo%20kak%2C%20saya%20Desi.%20Ada%20yang%20bisa%20saya%20bantu%3F`}
                 title="Github"
                 target="_blank"
                 rel="noopener noreferrer"
-              >
-                Github
+              >WhatsApp
+                
               </Link>
             </div>
           </div>
         </div>
       </header>
-      <main id="site-main" className="site-main">
-        <div id="swup" className="transition-fade">
+      <main id="" className="">
+        <div id="" className="">
           {children}
         </div>
       </main>
-      <footer className="site-foot">
-        &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
+      {/* <footer className="site-foot">
+        &copy; {new Date().getFullYear()} <Link to={`/bio`}>{title}</Link> &mdash;
         Built by {""}
         <a
-          href="https://travislord.xyz/"
+          href=""
           target="_blank"
           rel="noopener noreferrer"
         >
-          Travis Lord
+          
         </a>
         {""} & {""}
         <a
-          href="https://github.com/abdulwaqar844"
+          href=""
           target="_blank"
           rel="noopener noreferrer"
         >
-          Abdul Waqar
+          
         </a>
-      </footer>
+      </footer> */}
     </div>
   );
 };

@@ -2,11 +2,11 @@
 templateKey: news-page
 title: 3 Keunggulan Tes STIFIn
 date: 2023-03-02T10:17:05.133Z
-thumbnail: /img/doyoung.jpg
-description: Explore timely updates and stories on our Clay theme News page. Stay informed, inspired, and engaged with our latest articles and news.
-number: 4
+thumbnail: /img/UNGGUL.jpg
+description: 
+number: 
 pagetype:
-  - main
-featuredimage: /img/clay-images-17.jpg
+  
+featuredimage: /img/UNGGUL.jpg
 ---
 

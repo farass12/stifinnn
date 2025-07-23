@@ -54,9 +54,9 @@ const ContactPage = ({ data }, location) => {
         </div>
       )}
         <div className="post-content-body">
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Venenatis urna cursus eget nunc scelerisque. Nullam non nisi est sit amet facilisis. Quisque id diam vel quam. Morbi tincidunt augue interdum velit. Pellentesque adipiscing commodo elit at imperdiet dui accumsan. Adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna neque. Commodo odio aenean sed adipiscing diam donec adipiscing tristique risus. Mi tempus imperdiet nulla malesuada pellentesque. Maecenas ultricies mi eget mauris pharetra et ultrices. Cursus risus at ultrices mi tempus imperdiet nulla. Sit amet nisl suscipit adipiscing bibendum est ultricies. At volutpat diam ut venenatis tellus in. Cursus eget nunc scelerisque viverra mauris in. Ut aliquam purus sit amet luctus venenatis lectus.</p>
+          <p></p>
 
-          <h3 id="forms">Form</h3>
+          <h3 id="forms">Formulir</h3>
           <form name="contact" method="POST" data-netlify="true" action="thanks" onSubmit={handleSubmit}
           >
             <input type="hidden" name="form-name" value="contact" />
@@ -69,20 +69,20 @@ const ContactPage = ({ data }, location) => {
               <div className="col-6 col-12-xsmall">
                 <input
                   type="text"
-                  name="first-name"
-                  id="first-name"
+                  name="Nama-lengkap"
+                  id="Nama-lengkap"
                   onChange={handleChange}
-                  placeholder="First Name"
+                  placeholder="Nama lengkap"
                   required={true}
                 />
               </div>
               <div className="col-6 col-12-xsmall">
                 <input
                   type="text"
-                  name="last-name"
-                  id="last-name"
+                  name="Nama-panggilan"
+                  id="Nama-panggilan"
                   onChange={handleChange}
-                  placeholder="Last Name"
+                  placeholder="Nama panggilan"
                   required={true}
                 />
               </div>
@@ -100,24 +100,24 @@ const ContactPage = ({ data }, location) => {
               <div className="col-6 col-12-xsmall">
                 <input
                   type="text"
-                  name="location"
-                  id="location"
+                  name="Lokasi"
+                  id="Lokasi"
                   onChange={handleChange}
-                  placeholder="Location"
+                  placeholder="Lokasi"
                   required={true}
                 />
               </div>
               {/* Break */}
               {/* General, Purchase, Commissions, Exhibitions, Gallery Feature, Other */}
               <div className="col-12">
-                <select name="category" id="category" onChange={handleChange} required={true}>
-                  <option value>-Nature of Enquiry-</option>
-                  <option value={"General"}>General</option>
-                  <option value={"Purchase"}>Purchase</option>
-                  <option value={"Commissions"}>Commissions</option>
-                  <option value={"Exhibitions"}>Exhibitions</option>
-                  <option value={"Gallery Feature"}>Gallery Feature</option>
-                  <option value={"Other"}>Other</option>
+                <select name="Kategori" id="Kategori" onChange={handleChange} required={true}>
+                  <option value>-Sifat penyelidikan-</option>
+                  <option value={"Umum"}>Umum</option>
+                  <option value={"Pembelian"}>Pembelian</option>
+                  <option value={"Komisi"}>Komisi</option>
+                  <option value={"pemeran"}>Pemeran</option>
+                  <option value={"fitur galeri"}>Fitur galeri</option>
+                  <option value={"Lainnya"}>Lainnya</option>
                 </select>
               </div>
 
@@ -143,9 +143,9 @@ const ContactPage = ({ data }, location) => {
               {/* Break */}
               <div className="col-12">
                 <textarea
-                  name="message"
-                  id="message"
-                  placeholder="Enter your message"
+                  name="Pesan"
+                  id="Pesan"
+                  placeholder="Kirim pesan"
                   rows={6}
                   defaultValue={""}
                   onChange={handleChange}
@@ -161,7 +161,7 @@ const ContactPage = ({ data }, location) => {
                   <li>
                     <input
                       type="submit"
-                      defaultValue="Send Message"
+                      defaultValue="Kirim"
                       className="primary"
                     />
                   </li>
