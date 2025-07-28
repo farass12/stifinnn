@@ -111,13 +111,13 @@ const ContactPage = ({ data }, location) => {
               {/* General, Purchase, Commissions, Exhibitions, Gallery Feature, Other */}
               <div className="col-12">
                 <select name="Kategori" id="Kategori" onChange={handleChange} required={true}>
-                  <option value>-Sifat penyelidikan-</option>
-                  <option value={"Umum"}>Umum</option>
-                  <option value={"Pembelian"}>Pembelian</option>
-                  <option value={"Komisi"}>Komisi</option>
+                  <option value>-Paket yang di ambil-</option>
+                  <option value={"personal/couple"}>Personal/Couple</option>
+                  <option value={"Family"}>Family</option>
+                  {/* <option value={"Komisi"}>Komisi</option>
                   <option value={"pemeran"}>Pemeran</option>
                   <option value={"fitur galeri"}>Fitur galeri</option>
-                  <option value={"Lainnya"}>Lainnya</option>
+                  <option value={"Lainnya"}>Lainnya</option> */}
                 </select>
               </div>
 
