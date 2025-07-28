@@ -10,4 +10,3 @@ description: Memberikan banyak manfaat dan keharmonisan dalam pola hubungan komu
 
 ![clay-images-15](/img/familly.png)
 
-asdgaugsdjbueagsmcbkjsa
