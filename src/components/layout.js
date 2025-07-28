@@ -36,6 +36,12 @@ const Layout = (props) => {
               >
                 {/* <Link to={`/`}></Link> */}
               </li>
+               <li
+                className={`nav-home  ${data.pathname.includes("/") ? "nav-current" : ""} `}
+                role="menuitem"
+              >
+                <Link to={`/`}>Home</Link>
+              </li>
               <li
                 className={`nav-home  ${data.pathname.includes("/bio") ? "nav-current" : ""} `}
                 role="menuitem"
@@ -61,10 +67,16 @@ const Layout = (props) => {
                 <Link to={`/contact`}>Kontak</Link>
               </li>
               <li
-                className={`nav-home  ${data.pathname.includes("/sold/sold-1") ? "nav-current" : ""} `}
+                className={`nav-home  ${data.pathname.includes("/news/layanan") ? "nav-current" : ""} `}
                 role="menuitem"
               >
-                <Link to={`/sold/sold-1`}>Layanan</Link>
+                <Link to={`/news/layanan`}>Layanan</Link>
+              </li>
+              <li
+                className={`nav-home  ${data.pathname.includes("/news/artikel") ? "nav-current" : ""} `}
+                role="menuitem"
+              >
+                <Link to={`/news/artikel`}>Artikel</Link>
               </li>
             </ul>
           </nav>
