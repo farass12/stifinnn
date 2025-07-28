@@ -1,5 +1,5 @@
 ---
-templateKey: exhibitions-sub-page
+templateKey: blog-post
 thumbnail: /img/layanan.jpg
 date: 2022-02-04T10:06:48.715Z
 title: LAYANAN KAMI
