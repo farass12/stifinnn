@@ -136,7 +136,7 @@ module.exports = {
     author: "",
     description: "Situs resmi STIFIn Tangerang untuk informasi, edukasi, dan layanan STIFIn.",
     keywords: "",
-    image: "/img/apastifin.jpg",
+    image: "/img/apastifin.png",
     siteUrl: "https://stifintangerang.netlify.app/",
     
     

@@ -7,7 +7,7 @@ description:
 number: 1
 pagetype:
   - main
-featuredimage: /img/apastifin.jpg
+featuredimage: /img/apastifin.png
 ---
 <!--![clay-images-11](/img/clay-images-11.jpg)-->
 
