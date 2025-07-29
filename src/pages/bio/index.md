@@ -1,13 +1,13 @@
 ---
 templateKey: bio-page
-thumbnail: /img/APAITUSTIFIN.png
+thumbnail: /img/apastifin.png
 date: 2023-03-02T10:17:05.133Z
 title: Tes STIFIn untuk Mengetahui Personaliti Genetik Anda
 description: 
 number: 1
 pagetype:
   - main
-featuredimage: /img/apaitustifinn.jpg
+featuredimage: /img/apastifin.jpg
 ---
 <!--![clay-images-11](/img/clay-images-11.jpg)-->
 
