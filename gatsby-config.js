@@ -132,18 +132,11 @@ const siteConfig = require("./siteConfig");
 module.exports = {
   siteMetadata: {
     title: "Stifin Tangerang",
-    shortName: "Stifin",
-    author: "Tim Stifin Tangerang",
     description: "Situs resmi STIFIn Tangerang untuk informasi, edukasi, dan layanan STIFIn.",
-    image: "/img/default-og-image.jpg",
+    keywords: "",
+    image: "img/apastifin.png",
     siteUrl: "https://stifintangerang.netlify.app/",
-    
-    
-    social: {
-      twitter: "https://twitter.com/stifintgrng",
-      facebook: "https://facebook.com/stifintangerang",
-      github: "https://github.com/stifintangerang",
-    },
+  
   },
   plugins: [
     {
