@@ -228,7 +228,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#ffffff`,
         display: `standalone`,
-        icon: "src/img/apaitustifinn.jpg",
+        icon: "src/img/left-icon.svg",
       },
     },
     `gatsby-plugin-netlify`,
