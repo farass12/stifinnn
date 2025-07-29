@@ -132,11 +132,19 @@ const siteConfig = require("./siteConfig");
 module.exports = {
   siteMetadata: {
     title: "Stifin Tangerang",
+    shortName: "Stifin",
+    author: "",
     description: "Situs resmi STIFIn Tangerang untuk informasi, edukasi, dan layanan STIFIn.",
     keywords: "",
-    image: "img/apastifin.png",
+    image: "/img/apastifin.jpg",
     siteUrl: "https://stifintangerang.netlify.app/",
-  
+    
+    
+    social: {
+      twitter: "",
+      facebook: "",
+      github: "",
+    },
   },
   plugins: [
     {
@@ -219,7 +227,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#ffffff`,
         display: `standalone`,
-        icon: "src/img/icon.png",
+        icon: "src/img/left-icon.svg",
       },
     },
     `gatsby-plugin-netlify`,
