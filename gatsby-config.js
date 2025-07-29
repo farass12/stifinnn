@@ -147,6 +147,7 @@ module.exports = {
     },
   },
   plugins: [
+    "gatsby-plugin-react-helmet",
     {
       resolve: "gatsby-source-filesystem",
       options: {
@@ -227,7 +228,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#ffffff`,
         display: `standalone`,
-        icon: "src/img/left-icon.svg",
+        icon: "",
       },
     },
     `gatsby-plugin-netlify`,
