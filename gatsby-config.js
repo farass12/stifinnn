@@ -3,10 +3,11 @@ const siteConfig = require("./siteConfig");
 
 module.exports = {
   siteMetadata: {
-    title: siteConfig.name,
-    author: siteConfig.author,
-    description: siteConfig.description,
-    image: siteConfig.image,
+    title: "Stifin Tangerang",
+    author: "Tim stifin Tangerang",
+    description: "Situs resmi STIFIn Tangerang untuk informasi, edukasi, dan layanan STIFIn.",
+    keywords: "stifin, tangerang, kepribadian, tes, edukasi",
+    image: "/img/manfaat.jpg",
     siteUrl: "https://stifintangerang.netlify.app/",
     social: {
       twitter: siteConfig.twitter,
@@ -128,112 +129,3 @@ module.exports = {
     `gatsby-plugin-sitemap`,
   ],
 };
-
-// module.exports = {
-//   siteMetadata: {
-//     title: "Stifin Tangerang",
-//     shortName: "Stifin",
-//     author: "",
-//     description: "Situs resmi STIFIn Tangerang untuk informasi, edukasi, dan layanan STIFIn.",
-//     keywords: "",
-//     image: "/img/apastifin.png",
-//     siteUrl: "https://stifintangerang.netlify.app/",
-    
-    
-//     social: {
-//       twitter: "",
-//       facebook: "",
-//       github: "",
-//     },
-//   },
-//   plugins: [
-//     "gatsby-plugin-react-helmet",
-//     {
-//       resolve: "gatsby-source-filesystem",
-//       options: {
-//         path: `${__dirname}/static/img`,
-//         name: "uploads",
-//       },
-//     },
-//     {
-//       resolve: `gatsby-source-filesystem`,
-//       options: {
-//         path: `${__dirname}/src/pages`,
-//         name: `pages`,
-//       },
-//     },
-//     `gatsby-transformer-sharp`,
-//     `gatsby-plugin-sharp`,
-//     `gatsby-plugin-image`,
-//     {
-//       resolve: `gatsby-transformer-remark`,
-//       options: {
-//         plugins: [
-//           {
-//             resolve: "gatsby-remark-relative-images",
-//             options: {
-//               name: "uploads",
-//             },
-//           },
-//           {
-//             resolve: "gatsby-remark-copy-linked-files",
-//             options: {
-//               ignoreFileExtensions: [`png`, `jpg`, `jpeg`, `bmp`, `tiff`, `webp`],
-//             },
-//           },
-//           {
-//             resolve: `gatsby-remark-images`,
-//             options: {
-//               maxWidth: 1360,
-//               withWebp: true,
-//               showCaptions: false,
-//               quality: 75,
-//               wrapperStyle: `margin: 7vw 0;`,
-//             },
-//           },
-//           `gatsby-remark-prismjs`,
-//           `gatsby-remark-smartypants`,
-//         ],
-//       },
-//     },
-//     {
-//       resolve: "gatsby-plugin-netlify-cms",
-//       options: {
-//         modulePath: `${__dirname}/src/cms/cms.js`,
-//       },
-//     },
-//     {
-//       resolve: `gatsby-plugin-postcss`,
-//       options: {
-//         postCssPlugins: [
-//           require("postcss-easy-import")(),
-//           require("postcss-custom-properties")({ preserve: false }),
-//           require("postcss-color-function")(),
-//           require("autoprefixer")({ overrideBrowserslist: ["last 1 version"] }),
-//         ],
-//       },
-//     },
-//     {
-//       resolve: `gatsby-plugin-purgecss`,
-//       options: {
-//         printRejected: true,
-//       },
-//     },
-//     {
-//       resolve: `gatsby-plugin-manifest`,
-//       options: {
-//         name: "Stifin Tangerang",
-//         short_name: "Stifin",
-//         start_url: "/",
-//         background_color: `#ffffff`,
-//         theme_color: `#ffffff`,
-//         display: `standalone`,
-//         icon: "src/img/left-icon.svg",
-//       },
-//     },
-//     `gatsby-plugin-netlify`,
-//     `gatsby-plugin-offline`,
-//     `gatsby-plugin-react-helmet`,
-//     `gatsby-plugin-sitemap`,
-//   ],
-// }; 
