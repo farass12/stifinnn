@@ -41,8 +41,12 @@ const ContactPage = ({ data }, location) => {
     <Layout title={siteTitle} social={social}>
       <Seo title={data.markdownRemark.frontmatter.title}
         description={data.markdownRemark.frontmatter.description} 
-        image={data.markdownRemark.frontmatter.thumbnail.childImageSharp.gatsbyImageData.images.fallback.src}
-        />
+       image={
+  data.markdownRemark.frontmatter.thumbnail?.childImageSharp?.gatsbyImageData?.images?.fallback?.src ||
+  "/default-thumbnail.jpg" // fallback jika thumbnail tidak tersedia
+}
+/>
+
      
       <article className="contact-form page-template ">
       {data.markdownRemark.frontmatter.thumbnail && (
