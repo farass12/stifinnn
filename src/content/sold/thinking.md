@@ -14,4 +14,4 @@ description:  Memahami Potensi Genetik Menuju Versi Terbaik Diri Anda
 
 ### **Pendahuluan**
 
-Setiap orang memiliki potensi luar biasa dalam dirinya. Namun, sering kali potensi tersebut tidak tergali secara optimal karena kurangnya pemahaman akan siapa sebenarnya diri kita. Dalam upaya menemukan jati diri dan mengembangkan potensi secara maksimal, berbagai pendekatan digunakan—mulai dari psikotes, MBTI, hingga enneagram. bjjgjhgfh
+Setiap orang memiliki potensi luar biasa dalam dirinya. Namun, sering kali potensi tersebut tidak tergali secara optimal karena kurangnya pemahaman akan siapa sebenarnya diri kita. Dalam upaya menemukan jati diri dan mengembangkan potensi secara maksimal, berbagai pendekatan digunakan—mulai dari psikotes, MBTI, hingga enneagram. 
