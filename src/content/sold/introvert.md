@@ -1,9 +1,9 @@
 ---
 templateKey: exhibitions-sub-page
-thumbnail: /img/metode.png
+thumbnail: /img/introvert.png
 date: 2022-02-04T10:06:48.715Z
 title: Sensing Introvert
-description: Konsep STIFIn Dalam Sensing Ekstrovert
+description: Konsep STIFIn dalam sensing ekstrovert
 ---
 
 <!-- ![clay-images-15](/img/personal.png)
@@ -11,9 +11,7 @@ description: Konsep STIFIn Dalam Sensing Ekstrovert
 ![clay-images-15](/img/familly.png) -->
 
 
-
-
-## PENGERTIAN SENSING INTROVERT
+### PENGERTIAN SENSING INTROVERT
 Sistem operasi otak sensing adalah sistem otak yang terletak pada belahan otak limbik kiri atau otak bawah sebelah kiri, Dan juga lapisan otak dominannya berada di bagian putih bagian dalam atau biasa disebut kemudi kecerdasan *introvert*, dengan lapisan yang rapat, membuat sistem operasi ini bergerak dari dalam menuju keluar dari dirinya, Dikarenakan hal itu, *Sensing introvert* menjadi selalu ingin bergerak dan tidak bisa diam, Sensing merujuk pada kata yang berarti Pancaindra, Sehigga sensing dapat menerima informasi dari 5 peraba, Seperti penglihatan, penciuman, peraba, pendengaran, dan perasa, Hal ini membuat sensing lebih percaya dengan bukti nyata dibandin janji janji belaka.
 
 ### KEKUATAN & KELEMAHAN
