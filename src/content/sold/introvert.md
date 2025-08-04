@@ -1,6 +1,6 @@
 ---
 templateKey: exhibitions-sub-page
-thumbnail: /img/introvert.jpg
+thumbnail: /img/senintrovert.png
 date: 2022-02-04T10:06:48.715Z
 title: Sensing Introvert
 description: Konsep STIFIn dalam sensing ekstrovert
@@ -13,17 +13,20 @@ description: Konsep STIFIn dalam sensing ekstrovert
 
 ### PENGERTIAN SENSING INTROVERT
 
-Sistem operasi otak sensing adalah sistem otak yang terletak pada belahan otak limbik kiri atau otak bawah sebelah kiri, Dan juga lapisan otak dominannya berada di bagian putih bagian dalam atau biasa disebut kemudi kecerdasan *introvert*, dengan lapisan yang rapat, membuat sistem operasi ini bergerak dari dalam menuju keluar dari dirinya, Dikarenakan hal itu, *Sensing introvert* menjadi selalu ingin bergerak dan tidak bisa diam, Sensing merujuk pada kata yang berarti Pancaindra, Sehigga sensing dapat menerima informasi dari 5 peraba, Seperti penglihatan, penciuman, peraba, pendengaran, dan perasa, Hal ini membuat sensing lebih percaya dengan bukti nyata dibandin janji janji belaka.
+Sistem operasi otak sensing adalah sistem otak yang terletak pada belahan otak limbik kiri atau otak bawah sebelah kiri, Dan juga lapisan otak dominannya berada di bagian putih bagian dalam atau biasa disebut kemudi kecerdasan introvert, dengan lapisan yang rapat, membuat sistem operasi ini bergerak dari dalam menuju keluar dari dirinya.
+
+ Dikarenakan hal itu, *Sensing introvert* menjadi selalu tidak ingin bergerak dan *Sensing Introvert* berkaitan dengan proses menerima informasi melalui kejadian-kejadian yang telah ia lalui. Pada tipe *Sensing Introvert*, informasi ini tidak hanya ditangkap, tetapi juga diolah secara mendalam dan terstruktur berdasarkan pengalaman masa lalu yang telah terekam dengan jelas. Hal ini membuat mereka sangat peka terhadap detail yang familiar, terorganisir, dan cenderung mengandalkan rutinitas. *sensing introvert* ini lebih suka dengan ketenangan dan tidak suka dengan aktifitas yang padat.
 
 ### KEKUATAN & KELEMAHAN
 
-Setiap individu adalah paket lengkap yang terdiri dari kekuatan dan kelemahan. Kunci untuk memaksimalkan potensi diri adalah dengan berfokus pada peningkatan kekuatan yang kita miliki, sehingga potensi kelemahan dapat tertutupi dengan sendirinya. Salah satu kekuatan yang menonjol adalah pada individu dengan tipe kepribadian Sensing *Introvert*.
+*Sensing Introvert* adalah seseorang dengan ketelitian dan kecermatan yang tinggi, mereka mampu mengingat dan memperhatikan detail dengan akurat, terutama yang berkaitan dengan rutinitas atau informasi yang sudah mereka kenal sebelumnya, Mereka dikenal sebagai pribadi yang teliti, cermat, dan memiliki perhatian tinggi terhadap detail yang konsisten dan familiar, dengan mengandalkan pancaindra dan pengalaman nyata, terutama yang telah terjadi di masa lalu, sebagai dasar dalam menjalani kehidupannya. 
 
-Kekuatan utama Sensing *Introvert* terletak pada memori atau ingatan mereka yang sangat kuat. Kelebihan ini didasarkan pada kecerdasan ingatan atau "*memory quotient*" yang superior. Mereka mampu merekam banyak informasi dengan detail dan kronologi yang jelas dalam ingatannya. Ditambah dengan tubuh dan stamina yang kuat, Sensing *Introvert*menjadi sosok yang aktif dan memiliki banyak kegiatan. Mereka dikenal sebagai individu yang gigih dan pekerja keras, jarang menyerah. 
+Kemampuannya untuk mengingat informasi konkret dengan sangat akurat menjadikannya aset berharga dalam pekerjaan yang menuntut ketepatan dan konsistensi. Dalam kesehariannya, cenderung tenang, sistematis, dan terorganisir, Ia merasa nyaman dengan rutinitas yang jelas, serta memiliki kemampuan luar biasa dalam menjalankan tugas-tugas teknis yang membutuhkan presisi tinggi. Kepekaannya terhadap lingkungan sekitar membuatnya sigap menangkap perubahan kecil yang mungkin terlewatkan oleh orang lain, dan ia cenderung bekerja dalam diam tanpa banyak keluhan.
 
-Ketika dihadapkan pada tugas, mereka mampu mengerjakan satu per satu hingga tuntas. Namun, Sensing *Introvert* juga cenderung pesimis, terutama saat mencoba hal baru yang belum memiliki pengalaman. Oleh karena itu, dukungan dan pendampingan di awal proses sangat penting bagi mereka. Jika sudah berhasil mencoba dan merasakan manfaatnya, mereka akan sangat menyukainya dan sulit untuk berhenti. Mereka menyukai segala sesuatu yang jelas, detail, dan terperinci. Misalnya, dalam mengingat suatu kejadian, mereka umumnya akan mengingat secara detail dan kronologis. Dalam pekerjaan, mereka sangat memperhatikan aturan main yang harus dilaksanakan dan berbagai kepastian lainnya.
+Namun di balik kekuatan tersebut, Si juga memiliki sisi kelemahan. Ia sering kali merasa tidak nyaman dengan perubahan mendadak atau situasi yang menuntut fleksibilitas tinggi. Sifatnya yang terlalu mengandalkan hal-hal konkret membuatnya kurang antusias terhadap ide-ide abstrak atau wacana teoritis yang belum terbukti secara nyata. Dalam proses pengambilan keputusan, Si bisa terlihat lambat karena terlalu berhati-hati dan takut membuat kesalahan. 
 
-Kelebihan lain dari Sensing *Introvert* adalah kedisiplinan. Mereka cenderung mengerjakan sesuatu berdasarkan aturan yang berlaku, termasuk dalam aturan waktu. Mereka sangat tidak menyukai keterlambatan, karena bagi mereka, waktu adalah uang. Oleh karena itu, mereka tidak akan membuang waktu secara percuma.
+Ia pun cenderung terjebak dalam rutinitas yang itu-itu saja, sehingga kurang terdorong untuk mengeksplorasi potensi baru di luar zona nyamannya. Selain itu, karena energinya lebih banyak diarahkan ke dalam, sensing ini lebih sering terlihat tertutup, pendiam, cuek dan tidak peduli terhdap lingkungan sekitarnya, yang kadang disalahartikan sebagai tidak ramah atau kurang peduli. 
 
-Dengan kelebihan pada daya tahan tubuh dan panca indra yang kuat, Sensing *Introvert* lebih nyaman apabila pekerjaannya melibatkan fungsi otot yang membuat dirinya berkeringat serta dapat tampil di depan layar. Mereka senang untuk turun tangan langsung dan menjadi pemain utama dalam aktivitas yang mereka tekuni. Bahkan, untuk seorang pengusaha, mereka lebih suka terjun langsung menangani bisnisnya. Untuk mengoptimalkan kekuatan mereka, Sensing *Introvert* perlu mencari "panggung" atau lingkungan yang memungkinkan mereka meningkatkan produktivitasnya. Kebanyakan praktik yang meningkatkan jam terbang dan pengalaman di lapangan adalah kunci keberhasilan yang tak terkalahkan bagi mereka.
+Hal ini banyak orang yang salah mengartikan dengan sikap dingin mereka, padahal mereka tidak bisa langsung berinteraksi dengan hal baru apalagi yang baru mereka kenal, sikap kepedulian mereka ketika ia sudah merasa dekat dengan seseorang Kepedulian mereka sering kali ditunjukkan lewat tindakan konkret dan ketekunan dalam menjalankan tanggung jawab, bukan lewat ekspresi verbal atau emosional yang mencolok.
+
 
