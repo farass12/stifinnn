@@ -1,6 +1,6 @@
 ---
 templateKey: exhibitions-sub-page
-thumbnail: /img/s.ekstrovert.png
+thumbnail: /img/singekstrovert.png
 date: 2022-02-04T10:06:48.715Z
 title: Sensing Ekstrovert
 description: Konsep STIFIn dalam sensing ekstrovert
