@@ -6,7 +6,7 @@
       title: "Stifin Tangerang",
       author: "Tim stifin Tangerang",
       description: "Situs resmi STIFIn Tangerang untuk informasi, edukasi, dan layanan STIFIn.",
-      keywords: "stifin, tes stifin tangerang, tes kepribadian stifin, stifin tangerang, tes stifin, mesin kecerdasan stifin,mengenal diri dengan tes stifin, metode stifin,",
+      keywords: "sensing ekstrovert, sensing introvert, thingking introvert, thingking ekstrovert, kecerdasan otak kiri, introvert,esktovert, stifin, tes stifin tangerang, tes kepribadian stifin, stifin tangerang, tes stifin, mesin kecerdasan stifin,mengenal diri dengan tes stifin, metode stifin,",
       image: "/img/manfaat.jpg",
       siteUrl: "https://stifintangerang.netlify.app/",
       social: {
