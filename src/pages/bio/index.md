@@ -15,13 +15,13 @@ featuredimage: /img/apastifin.png
 
 **Apa itu Personaliti Genetik STIFIn?**
 
-Setiap orang memiliki kepribadian dan motivasi kemudi yang berbeda-beda satu dengan yang lainnya. Dimana dalam konsep STIFIn Masing-masing dari setiap karakter tersebut dibagi menjadi dua kemudi kecerdasan, yaitu *introvert* dan *ekstrovert*, kecuali *Insting*. Mesin kecerdasan (S, T, I, F, In) yang dikombinasikan dengan kemudi kecerdasan (*introvert* dan *ekstrovert*) disebut sebagai personaliti genetik yang terdiri dari Si, Se, Ti, Te, Ii, Ie, Fi, Fe, dan In.
+setiap orang memiliki kepribadian yang berbeda dan yang pastinya motivasi yang berbeda juga dengan orang-orang lain nya. Dimana dalam konsep STIFIn Masing-masing dari setiap karakter tersebut dibagi menjadi dua kemudi kecerdasan, yaitu *introvert* dan *ekstrovert*, kecuali *Insting*. Mesin kecerdasan (S, T, I, F, In) yang dikombinasikan dengan kemudi kecerdasan (*introvert* dan *ekstrovert*) disebut sebagai personaliti genetik yang terdiri dari Si, Se, Ti, Te, Ii, Ie, Fi, Fe, dan In.
 
 Dari personaliti genetik sesorang akan diketahui potensi bakat minat yang dimiliki secara genetik. Dari itu kita bisa mengetahui kepribadian dan pola komunikasi yang tepat bahkan sampai menuntukan profesi atau karir yang sesuai dan nyaman di masa depan.
 
 **Srata Genetik STIFIn**
 
-Tingkatan faktor genetik yang mempengaruhi kepribadian seseorang. Berdasarkan tingkatannya, strata genetik diurutkan sebagai berikut:
+Tingkatan faktor genetik yang mempengaruhi kepribadian seseorang. berdasarkan stara genetik stifin tingkatan-tingkatan itu sebagai berikut :
 
 **1. Jenis kelamin**
 
@@ -47,11 +47,11 @@ Golongan darah A cenderung seperti mesin kecerdasan *Thinking.*
 Golongan darah AB cenderung seperti mesin kecerdasan *Sensing.*
 Golongan darah B cenderung seperti mesin kecerdasan *Intuiting.*
 Mesin Kecerdasaan STIFIn
-Nah, setelah mengetahui letak masing-masing mesin kecerdasan, berikut merupakan karakter dari masing-masing mesin kecerdasan tersebut.
+
 
 **Mesin Kecerdasan STIFIn**
 
-Nah, setelah mengetahui letak masing-masing mesin kecerdasan, berikut merupakan karakter dari masing-masing mesin kecerdasan tersebut.
+Setelah memahami posisi atau letak dari masing-masing mesin kecerdasan dalam konsep STIFIn, kini saatnya mengenal karakteristik khas dari setiap mesin kecerdasan tersebut.
 
 ![clay-images-11](/img/mesinkecerdasan.jpg)
 
@@ -65,9 +65,7 @@ Tipe *Thinking introvert yang senang berpikir* membuatnya terbiasa belajar denga
 
 *Intuiting* dikenal sebagai the creator karena memiliki banyak ide kreatif dan daya imajinasi yang tinggi. Sifat yang cenderung perfeksionis dan sangat mementingkan kualitas. *Intuiting* tergolong tidak mudah diatur, ia menyukai perubahan yang terkonsep karena *Intuiting* merupakan pembaharu yang melihat peluang ke depan, namun tidak menyadari musuhnya.
 
-Tipe ini memiliki kemistri “kata” yang berupa ide atau gagasan yang perlu dirangkai untuk diwujudkan. Kebalikan dengan Sensing, mesin kecerdasan *Intuiting* kurang suka main otot, ia lebih suka menggunakan kepala bagian kanannya untuk menggali kreativitas.
-
-*Feeling* paling senang berbicara tapi juga merupakan pendengar yang baik. Tipe ini erat kaitannya dengan perasaan, sehingga mampu memahami orang lain, mudah tersentuh, dan memiliki rasa empati yang tinggi. Kekuatan emosional yang dimiliki *Feeling* membuatnya memiliki jiwa pemimpin.
+Tipe ini memiliki kemistri “kata” yang berupa ide atau gagasan yang perlu dirangkai untuk diwujudkan. Mesin kecerdasan Intuiting cenderung tidak menyukai aktivitas fisik yang mengandalkan kekuatan otot. Sebaliknya, ia lebih memilih menggunakan belahan otak kanan atasnya untuk mengeksplorasi ide-ide kreatif dan inovatif. Kekuatan emosional yang dimiliki *Feeling* membuatnya memiliki jiwa pemimpin.
 
 Mesin kecerdasan *Feeling* dengan kemudi kecerdasan *introvert* menjadikan ia memiliki sifat lebih percaya diri yang tinggi karena didorong dari dalam dirinya dan pada tipe *Feeling ekstrovert* ia lebih bergantung pada energi yang datang dari luar dirinya membuatnya suka menjadi tokoh atau pemimpin yang berada dibalik layar.
 
@@ -75,7 +73,7 @@ Mesin kecerdasan *Feeling* dengan kemudi kecerdasan *introvert* menjadikan ia me
 
 Kemampuan serba bisa yang dimiliki *Insting* membuatnya ingin selalu berperan dan memberikan kontribusi bagi lingkungannya. Tipe ini menyukai suasana yang tenang dan damai sehingga ia mampu melihat hikmah secara spiritual yang dapat dirasakan dengan nalurinya.
 
-Dengan mengetahui pertanyaan dari apa itu STIFIn , kita akan mengetahui personaliti genetik seseorang yang memudahkan dalam mencari solusi dari setiap persoalan yang secara lebih spesifik, seperti cara belajar, memilih karir, merencanakan keuangan, memahami karakter pasangan, pola pengasuhan anak, dan lain sebagainya. Jadi, tes STIFIn memiliki banyak sekali manfaat yang dapat diaplikasikan untuk memaksimalkan potensi dalam diri seseorang.
+Dengan mengetahui pertanyaan dari apa itu STIFIn , kita akan mengetahui personaliti genetik seseorang yang memudahkan dalam mencari solusi dari setiap persoalan yang secara lebih spesifik, seperti cara belajar, memilih karir, merencanakan keuangan, memahami karakter pasangan, pola pengasuhan anak, dan lain sebagainya. Jadi, tes STIFIn ini memiliki banyak manfaat untuk diri kita sendiri dan juga untuk orang lain, selain itu tes ini juga memiliki banyak sekali manfaat yang dapat diaplikasikan dan memaksimalkan potensi dalam diri seseorang.
 
 <a href="https://unsplash.com/@tomcrewceramics" target="_blank"> </a>
 
