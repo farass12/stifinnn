@@ -9,16 +9,15 @@ description:
 
 ![clay-images-15](/img/clay-images-15.jpg) -->
 
-### Berikut adalah 3 hal kenapa kita tambah yakin
+### Berikut adalah 3 alasan kenapa kita semakin yakin dengan tes STIFIn:
 
 **SIMPEL**
-
-> Dari miliaran manusia, Hasil dari tes STIFIn di kelompokkan hanya dalam 5 Mesin Kecerdasan dan 9 Personaliti Genetik.
+> Dari miliaran manusia di dunia, hasil tes STIFIn mengelompokkan kita hanya ke dalam 5 mesin kecerdasan dan 9 kepribadian genetik. Mudah dipahami dan tidak rumit.
 
 **AKURAT**
-
-> Memiliki akurasi dengan tingkat Validitas (Paper & Pencil) dan Reliabilitas (Finggerprint) Tinggi yaitu 95% saat dilakukan uji coba tes STIFIn. CUKUP TES 1X SEUMUR HIDUP (hasil bersifat genetik sehingga tidak akan berubah.
+> STIFIn memiliki tingkat validitas (Paper & Pencil) dan reliabilitas (Fingerprint) yang tinggi, mencapai akurasi hingga 95% berdasarkan hasil uji coba.
+Cukup tes sekali seumur hidup, karena hasilnya bersifat genetik dan tidak akan berubah.
 
 **APLIKATIF**
-
-> STIFIn memiliki keunggulan yang sifatnya Multi Angle Field dimana hasilnya ini dapat di terapkan dalam segala bidang seperti Learning, Teaching, Parenting, Bisnis, Profesi, Suri Rumah, Couple, Health, ...
+> STIFIn unggul dalam pendekatan Multi-Angle Field, artinya hasil tesnya bisa diterapkan di berbagai aspek kehidupan, seperti:
+Belajar, Mengajar, Parenting, Bisnis, Profesi, Rumah Tangga, Hubungan Pasangan, Kesehatan, dan masih banyak lagi.
