@@ -1,9 +1,9 @@
 ---
 templateKey: exhibitions-sub-page
-thumbnail: /img/singekstrovet.png
+thumbnail: /img/feelingintro.jpg
 date: 2022-02-04T10:06:48.715Z
 title: Feeling Introvert 
-description: dominasi sistem operasi otak yang membentuk keunikan karakternya.
+description: Setia pada hati, tulus pada dunia
 ---
 
 <!-- ![clay-images-15](/img/personal.png)
@@ -18,10 +18,10 @@ Feeling Introvert adalah cara berpikir yang terfokus pada nilai pribadi, perasaa
 STIFIn menjelaskan bahwa setiap orang memiliki dominasi sistem operasi otak yang membentuk keunikan karakternya. Bagi seorang Feeling Introvert, sistem ini terletak di belahan otak bawah sebelah kanan (limbik kanan) dan menggunakan lapisan otak putih bagian dalam. Inilah yang menyebabkan mereka cenderung memproses segala sesuatu dari dalam ke luar—berpijak pada hati nurani dan nilai pribadi, sebelum kemudian mengekspresikannya ke lingkungan. Dengan begini, mereka bisa memperlihatkan pengaruh kepemimpinan yang kuat meski tampak pendiam.
 
 ### Kekuatan Feeling Introvert (Fi):
-1.Setia pada nilai dan prinsip diri.
-2.Tulus dan autentik.
-3.Empati mendalam. 
-4.Peka terhadap ketidakadilan. 
+1. Setia pada nilai dan prinsip diri.
+2. Tulus dan autentik.
+3. Empati mendalam. 
+4. Peka terhadap ketidakadilan. 
 
 ### Kelemahan Feeling Introvert (Fi):
 • Tertutup secara emosional. 
