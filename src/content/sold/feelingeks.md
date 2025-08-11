@@ -13,7 +13,7 @@ description: Menyebarkan Keceriaan dan menguatkan sekitar
 
 ### *FEELING EXTROVERT* DALAM KONSEP STIFin
 
-*Extraverted Feeling* (Fe),  atau yang sering disebut *Feeling Ekstrovert*, adalah salah satu fungsi kognitif dalam teori Jung dan MBTI. Fungsi ini berfokus pada hubungan sosial, norma-norma bersama, serta perasaan dan kebutuhan emosional orang lain.
+Extraverted Feeling (Fe), atau yang sering disebut *Feeling Ekstrovert*, adalah salah satu fungsi kognitif dalam teori Jung dan MBTI. Fungsi ini berfokus pada hubungan sosial, norma-norma bersama, serta perasaan dan kebutuhan emosional orang lain.
 
 Individu dengan dominasi Fe biasanya peka terhadap perasaan lingkungan sekitar, mudah berempati, dan memiliki dorongan kuat untuk menciptakan keharmonisan dalam kelompok.
 
@@ -21,9 +21,9 @@ Dalam konsep STIFIn, tipe *Feeling Extrovert* digerakkan oleh sistem limbik kana
 
 Seseorang dengan dominasi Fe biasanya:
 
-• Mudah memahami perasaan orang lain tanpa harus dijelaskan secara verbal.
-• Termotivasi untuk membantu, melayani, dan menjaga kenyamanan sosial.
-• Senang bila bisa menjadi bagian dari kelompok dan memberi dampak positif pada orang lain.
+> Mudah memahami perasaan orang lain tanpa harus dijelaskan secara verbal.
+> Termotivasi untuk membantu, melayani, dan menjaga kenyamanan sosial.
+> Senang bila bisa menjadi bagian dari kelompok dan memberi dampak positif pada orang lain.
 
 Kelebihan Feeling Extrovert (Fe)
 
@@ -42,7 +42,7 @@ Kelemahan Feeling Extrovert (Fe)
 
 Mengapa Feeling Extrovert Cocok Menjadi Coach
 
-1. Empati dan kepedulian tinggi
+1. Empati dan kepedulian tinggi 
 Seorang coach harus mampu memahami kondisi klien secara emosional. Fe yang sensitif terhadap perasaan orang lain memudahkannya dalam proses mendengarkan dan memberi arahan dengan penuh empati.
 
 2. Kemampuan membangun hubungan dan kepercayaan
