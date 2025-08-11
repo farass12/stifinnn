@@ -22,7 +22,9 @@ Dalam konsep STIFIn, tipe *Feeling Extrovert* digerakkan oleh sistem limbik kana
 Seseorang dengan dominasi Fe biasanya:
 
 > Mudah memahami perasaan orang lain tanpa harus dijelaskan secara verbal.
+
 > Termotivasi untuk membantu, melayani, dan menjaga kenyamanan sosial.
+
 > Senang bila bisa menjadi bagian dari kelompok dan memberi dampak positif pada orang lain.
 
 Kelebihan Feeling Extrovert (Fe)
@@ -56,4 +58,4 @@ Tujuan coaching adalah membantu orang lain berkembang. Kecenderungan Fe untuk me
 
 5. Fleksibel dalam komunikasi
 
-oleh karena itu orang yang memiliki FE meliliki Kepekaan sosial Fe membuatnya mudah menyesuaikan gaya komunikasi agar lebih diterima oleh klien.
+- oleh karena itu orang yang memiliki FE meliliki Kepekaan sosial Fe membuatnya mudah menyesuaikan gaya komunikasi agar lebih diterima oleh klien.
