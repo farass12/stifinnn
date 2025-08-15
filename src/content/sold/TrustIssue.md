@@ -1,6 +1,6 @@
 ---
 templateKey: exhibitions-sub-page
-thumbnail: /img/tintrovert.png
+thumbnail: /img/menikah.png
 date: 2022-02-04T10:06:48.715Z
 title: Thinking selalu Trust Issue 
 description:  Bagaimana menyakinkan thinking yang trus issue untuk siap menikah
