@@ -13,8 +13,6 @@ description: Mengenal Diri Lewat Mesin Kecerdasan Genetik
 
 
 
-
-
 Metode ini dikembangkan oleh **Farid Poniman**, seorang pakar SDM Indonesia, berdasarkan gabungan konsep **neurologi, psikologi, dan genetik**. Tujuan utamanya adalah **mengidentifikasi kecerdasan utama seseorang** secara sederhana namun akurat.
 
 
