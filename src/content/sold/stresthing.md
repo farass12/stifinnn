@@ -2,7 +2,7 @@
 templateKey: exhibitions-sub-page
 thumbnail: /img/stres.jpg
 date: 2022-02-04T10:06:48.715Z
-title: Mengelola stres ala tipe thinking
+title: 
 description: 
 ---
 
