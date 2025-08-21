@@ -2,7 +2,7 @@
 templateKey: work-sub-page
 thumbnail: /img/mnfat.png
 date: 2022-02-04T10:06:48.715Z
-title: Manfaat Tes STIFIn
+title: 
 description: 
 ---
 <!-- ![clay-images-17](/img/clay-images-17.jpg)
@@ -11,8 +11,7 @@ description:
 
 <p align="center"><b>Manfaat Tes STIFIn</b></p>
 
-
-### Manfaat Tes STIFIn untuk diri sendiri
+ 
 > Mengenali potensi dari karakter dan kepribadian diri
   
 
