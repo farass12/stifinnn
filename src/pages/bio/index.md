@@ -9,7 +9,8 @@ pagetype:
   - main
 featuredimage: /img/apastifin.png
 ---
-<!--![clay-images-11](/img/clay-images-11.jpg)-->
+
+<h2 align="center"> MANFAAT TES STIFIN </h2>
 
 **Apa itu STIFIn** – STIFIn merupakan sebuah konsep yang digunakan untuk mengidentifikasi mesin kecerdasan manusia berdasarkan sistem operasi otak yang dominan dan dapat diketahui dengan memindai sidik jari. Metode STIFIn tersusun dari teori-teori psikologi, *neuroscience*, dan ilmu sumber daya manusia yang akan membantu kita mengenali dan memahami karakter dan kepribadian setiap manusia. Sesuai dengan namanya, dalam konsep STIFIn yang diperkenalkan oleh Farid Poniman, terdapat 5 mesin kecerdasan, yaitu *Sensing, Thinking, Intuiting, Feeling, dan Insting.*
 

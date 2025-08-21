@@ -9,7 +9,7 @@ description:
 
 ![clay-images-15](/img/clay-images-15.jpg) -->
 
-### Berikut adalah 3 alasan kenapa kita semakin yakin dengan tes STIFIn:
+#### berikut adalah 3 alasan kenapa kita semakin yakin dengan tes STIFIn
 
 **SIMPEL**
 > Dari miliaran manusia di dunia, hasil tes STIFIn mengelompokkan kita hanya ke dalam 5 mesin kecerdasan dan 9 kepribadian genetik. Mudah dipahami dan tidak rumit.
