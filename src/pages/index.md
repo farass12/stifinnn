@@ -2,7 +2,7 @@
 templateKey: index-page
 title: tes stifin 
 image: /img/apaitustifin.jpg
-description: A stunning Gatsby theme designed for captivating image-centric websites, perfect for photographers, portfolios, and blogs.
+description: 
 thumbnail: /img/apaitustifinn.jpg
 heading: Main Heading
 subheading: Sub HEading
