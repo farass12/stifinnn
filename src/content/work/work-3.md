@@ -9,7 +9,8 @@ description:
 
 ![clay-images-15](/img/clay-images-15.jpg) -->
 
-<p align="center"><b>Manfaat Tes STIFIn</b></p>
+<h1 align="center"> MANFAAT TES STIFIN </h1>
+
 
  
 > Mengenali potensi dari karakter dan kepribadian diri
