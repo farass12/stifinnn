@@ -6,9 +6,6 @@ title: thinking introvert
 description:  thinking Introvert kecerdasan otak sebelah kiri atas
 ---
 
-<!-- ![clay-images-15](/img/personal.png)
-
-![clay-images-15](/img/familly.png) -->
 
 
 ### PENGERTIAN THINKING INTROVERT

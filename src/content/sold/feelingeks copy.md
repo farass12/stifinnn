@@ -6,9 +6,6 @@ title: intuiting Ekstrovert
 description: energi kamu senyum mereka!
 ---
 
-<!-- ![clay-images-15](/img/personal.png)
-
-![clay-images-15](/img/familly.png) -->
 
 
 ### Intuiting Extrovert dalam Konsep STIFIn

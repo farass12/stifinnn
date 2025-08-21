@@ -6,9 +6,7 @@ title: Thinking Ekstrovert
 description:  Apa sih tingking Ekstrovert dalam konsep stifin
 ---
 
-<!-- ![clay-images-15](/img/personal.png)
 
-![clay-images-15](/img/familly.png) -->
 
 ### PENGERTIAN THINKING EKSTROVERT
 

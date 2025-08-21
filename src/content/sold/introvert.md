@@ -6,9 +6,6 @@ title: Sensing Introvert
 description: Konsep STIFIn dalam sensing ekstrovert
 ---
 
-<!-- ![clay-images-15](/img/personal.png)
-
-![clay-images-15](/img/familly.png) -->
 
 
 ### PENGERTIAN SENSING INTROVERT

@@ -6,10 +6,6 @@ title: Metode STIFIn
 description: Mengenal Diri Lewat Mesin Kecerdasan Genetik
 ---
 
-<!-- ![clay-images-15](/img/personal.png)
-
-![clay-images-15](/img/familly.png) -->
-
 
 
 

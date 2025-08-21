@@ -6,9 +6,6 @@ title: Feeling Ekstrovert
 description: Menyebarkan Keceriaan dan menguatkan sekitar
 ---
 
-<!-- ![clay-images-15](/img/personal.png)
-
-![clay-images-15](/img/familly.png) -->
 
 
 ### *FEELING EXTROVERT* DALAM KONSEP STIFin

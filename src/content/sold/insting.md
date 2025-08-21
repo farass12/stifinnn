@@ -6,9 +6,6 @@ title: Insting dalam konsep STIFIn
 description: Fleksibel dan siap di segala situasi
 ---
 
-<!-- ![clay-images-15](/img/personal.png)
-
-![clay-images-15](/img/familly.png) -->
 
 
 ### *INSTING* dalam Konsep STIFIn

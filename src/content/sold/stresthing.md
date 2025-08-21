@@ -6,10 +6,6 @@ title:
 description: 
 ---
 
-<!-- ![clay-images-15](/img/personal.png)
-
-![clay-images-15](/img/familly.png) -->
-
 
 ### CARA MENGELOLA STRESS TIPE THINKING
 

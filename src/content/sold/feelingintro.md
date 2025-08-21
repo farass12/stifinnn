@@ -6,10 +6,6 @@ title: Feeling Introvert
 description: Setia pada hati, tulus pada dunia
 ---
 
-<!-- ![clay-images-15](/img/personal.png)
-
-![clay-images-15](/img/familly.png) -->
-
 
 ### Feeling Introvert dalam Konsep STIFIn
 

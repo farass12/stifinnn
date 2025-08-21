@@ -6,9 +6,6 @@ title: Thinking selalu Trust Issue
 description:  Bagaimana menyakinkan thinking yang trus issue untuk siap menikah
 ---
 
-<!-- ![clay-images-15](/img/personal.png)
-
-![clay-images-15](/img/familly.png) -->
 
 
 ### Bagaimana menyakinkan thinking yang trus issue untuk siap menikah
