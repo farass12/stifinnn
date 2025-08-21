@@ -4,10 +4,10 @@ pagetype:
   - main
 title: 
 date: 2023-03-02T10:17:05.133Z
-thumbnail: /img/manfaat.jpg
+thumbnail: /img/manfaattes.png
 description: 
 number: 2
-featuredimage: /img/manfaat.jpg
+featuredimage: /img/manfaattes.png
 ---
 
 
