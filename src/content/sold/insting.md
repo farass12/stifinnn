@@ -2,8 +2,8 @@
 templateKey: exhibitions-sub-page
 thumbnail: /img/insting.png
 date: 2022-02-04T10:06:48.715Z
-title: Insting dalam konsep STIFIn
-description: Fleksibel dan siap di segala situasi
+title: 
+description: 
 ---
 
 

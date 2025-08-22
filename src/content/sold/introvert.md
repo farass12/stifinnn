@@ -2,8 +2,8 @@
 templateKey: exhibitions-sub-page
 thumbnail: /img/sensingin.png
 date: 2022-02-04T10:06:48.715Z
-title: Sensing Introvert
-description: Konsep STIFIn dalam sensing ekstrovert
+title: 
+description: 
 ---
 
 

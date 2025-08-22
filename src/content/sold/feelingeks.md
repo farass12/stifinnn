@@ -2,8 +2,8 @@
 templateKey: exhibitions-sub-page
 thumbnail: /img/feelingekstrovert.png
 date: 2022-02-04T10:06:48.715Z
-title: Feeling Ekstrovert
-description: Menyebarkan Keceriaan dan menguatkan sekitar
+title: 
+description: 
 ---
 
 
