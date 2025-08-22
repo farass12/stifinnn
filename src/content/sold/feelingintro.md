@@ -1,6 +1,6 @@
 ---
 templateKey: exhibitions-sub-page
-thumbnail: /img/feelingintro.jpg
+thumbnail: /img/feelingintrovert.png
 date: 2022-02-04T10:06:48.715Z
 title: Feeling Introvert 
 description: Setia pada hati, tulus pada dunia

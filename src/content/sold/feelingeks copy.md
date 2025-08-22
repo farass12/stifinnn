@@ -1,6 +1,6 @@
 ---
 templateKey: exhibitions-sub-page
-thumbnail: /img/intuitingext.jpg
+thumbnail: /img/intuitingekstro.png
 date: 2022-02-04T10:06:48.715Z
 title: intuiting Ekstrovert
 description: energi kamu senyum mereka!
