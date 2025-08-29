@@ -2,8 +2,10 @@
 templateKey: exhibitions-sub-page
 thumbnail: /img/thinkingekstro.png
 date: 2022-02-04T10:06:48.715Z
-title: 
-description:  
+description: 
+number: 
+pagetype:
+  - main
 featuredimage: /img/artikel.png
 ---
 
