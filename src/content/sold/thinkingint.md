@@ -8,7 +8,7 @@ description:
 number: 
 pagetype:
   - main
-featuredimage: /img/artikel.png 
+# featuredimage: /img/artikel.png 
 ---
 
 
