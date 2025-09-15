@@ -1,10 +1,11 @@
 ---
 templateKey: exhibitions-sub-page
-thumbnail: /img/thinkinguntuk.png
+thumbnail: /img/thinkingmenikah.png
 date: 2022-02-04T10:06:48.715Z
-title:  
+title: 
 description:  
 ---
+
 
 
 
