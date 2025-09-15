@@ -1,14 +1,9 @@
 ---
 templateKey: exhibitions-sub-page
-title: 
-date: 2023-03-02T10:17:05.133Z
-featuredimage: /img/thinkingintrovert.png 
 thumbnail: /img/thinkingintrovert.png
-description: 
-number: 
-pagetype:
-  - main
-# featuredimage: /img/artikel.png 
+date: 2022-02-04T10:06:48.715Z
+title: 
+description:  
 ---
 
 
