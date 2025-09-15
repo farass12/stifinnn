@@ -1,6 +1,6 @@
 ---
 templateKey: exhibitions-sub-page
-thumbnail: /img/mengelolastres.png
+thumbnail: /img/mengelolastress.png
 date: 2022-02-04T10:06:48.715Z
 title: 
 description: 

@@ -1,6 +1,6 @@
 ---
 templateKey: exhibitions-sub-page
-thumbnail: /img/sensingin.png
+thumbnail: /img/sensingekstrovert.png
 date: 2022-02-04T10:06:48.715Z
 title: 
 description: 
