@@ -14,8 +14,8 @@ public_folder: /img
 
 collections:
   - name: "Artikel"
-    label: "sold"
-    folder: "src/content/sold"
+    label: "Artikel"
+    folder: "src/content/Artikel"
     create: true
     slug: "{{slug}}"
     fields:
