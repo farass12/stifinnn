@@ -1,6 +1,6 @@
 ---
 templateKey: exhibitions-sub-page
-thumbnail: /img/sensingekstrovert.png
+thumbnail: /img/keuntunganjadi.png
 date: 2025-10-01
 title: Keuntungan Jadi Ekstrovert di Era Digital
 description: Di era digital yang serba cepat dan penuh interaksi, sifat ekstrovert ternyata punya banyak keuntungan. Mereka lebih mudah membangun jaringan, tampil percaya diri di ruang online, dan cepat beradaptasi dengan tren baru. Artikel ini membahas kenapa jadi ekstrovert di dunia serba digital bisa jadi senjata ampuh untuk berkembang.
